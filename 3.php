@@ -1,0 +1,2 @@
+<?php
+$firstCommit = 1;
